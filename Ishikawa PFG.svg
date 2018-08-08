@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- Generado por Microsoft Visio 11.0, SVG Export, v1.0 Ishikawa PFG.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generado por Microsoft Visio, SVG Export Ishikawa PFG.svg Página-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
-		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st16">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="9.5538in" height="3.79013in"
+		viewBox="0 0 687.874 272.889" xml:space="preserve" color-interpolation-filters="sRGB" class="st17">
 	<v:documentProperties v:langID="3082" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
 			<v:ud v:nameU="msvConvertTheme"/>
 		</v:userDefs>
 	</v:documentProperties>
@@ -15,58 +14,53 @@
 	<![CDATA[
 		.st1 {visibility:visible}
 		.st2 {fill:#cdcdcd;fill-opacity:0.5}
-		.st3 {marker-end:url(#mrkr4-7);stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
-		.st4 {stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:0.25}
-		.st5 {fill:#cdcdcd;fill-opacity:0.5;stroke:#cdcdcd;stroke-opacity:0.5;stroke-width:0.090252707581227}
-		.st6 {fill:url(#grad30-12)}
-		.st7 {marker-end:url(#mrkr4-15);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st8 {stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st9 {fill:#404040;fill-opacity:1;stroke:#404040;stroke-opacity:1;stroke-width:0.090252707581227}
+		.st3 {marker-end:url(#mrkr4-7);stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:1}
+		.st4 {stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stroke-width:1}
+		.st5 {fill:#cdcdcd;fill-opacity:0.5;stroke:#cdcdcd;stroke-opacity:0.5;stroke-width:0.28409090909091}
+		.st6 {fill:url(#grad0-12)}
+		.st7 {marker-end:url(#mrkr4-15);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st8 {stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st9 {fill:#404040;fill-opacity:1;stroke:#404040;stroke-opacity:1;stroke-width:0.28409090909091}
 		.st10 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-weight:bold}
 		.st11 {fill:#000000;font-family:Calibri;font-size:0.666664em;font-weight:bold}
 		.st12 {font-size:1em}
 		.st13 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
-		.st14 {marker-end:url(#mrkr4-225);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st15 {fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.090252707581227}
-		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st14 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st15 {marker-end:url(#mrkr4-225);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st16 {fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st17 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
 	<defs id="Patterns_And_Gradients">
-		<linearGradient id="grad30-12" v:fillPattern="30" v:foreground="#f0f0f0" v:background="#ffffff" x1="0" y1="1" x2="0" y2="0">
-			<stop offset="0" style="stop-color:#f0f0f0;stop-opacity:1"/>
-			<stop offset="1" style="stop-color:#ffffff;stop-opacity:1"/>
+		<linearGradient id="grad0-12" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#f0f0f0" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
 		</linearGradient>
 	</defs>
 	<defs id="Markers">
 		<g id="lend4">
 			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
 		</g>
-		<marker id="mrkr4-7" class="st5" v:arrowType="4" v:arrowSize="2" v:setback="22.16" refX="-22.16" orient="auto"
+		<marker id="mrkr4-7" class="st5" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
-			<use xlink:href="#lend4" transform="scale(-11.08,-11.08) "/>
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
 		</marker>
-		<marker id="mrkr4-15" class="st9" v:arrowType="4" v:arrowSize="2" v:setback="22.16" refX="-22.16" orient="auto"
+		<marker id="mrkr4-15" class="st9" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
-			<use xlink:href="#lend4" transform="scale(-11.08,-11.08) "/>
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
 		</marker>
-		<marker id="mrkr4-225" class="st15" v:arrowType="4" v:arrowSize="2" v:setback="22.16" refX="-22.16" orient="auto"
+		<marker id="mrkr4-225" class="st16" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
-			<use xlink:href="#lend4" transform="scale(-11.08,-11.08) "/>
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
 		</marker>
 	</defs>
 	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
-		<v:userDefs>
-			<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
-			<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
-			<v:ud v:nameU="msvThemeOrder" v:val="VT0(1):26"/>
-		</v:userDefs>
 		<title>Página-1</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="4.25197"
 				v:shadowOffsetY="-4.25197"/>
 		<v:layer v:name="Diagrama de flujo" v:index="0"/>
-		<g id="shape3-1" v:mID="3" v:groupContext="shape" v:layerMember="0"
-				transform="translate(-184.672,107.692) rotate(-60.1547)">
+		<g id="shape3-1" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(46.4568,110.154) rotate(-60.1547)">
 			<title>Categoría 2</title>
 			<desc>Método</desc>
 			<v:userDefs>
@@ -77,18 +71,18 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-7.98143" cy="599.855" width="70.87" height="18.4037" transform="rotate(60.1547)"/>
+			<v:textRect cx="-7.98143" cy="277.469" width="70.87" height="18.4037" transform="rotate(60.1547)"/>
 			<g id="shadow3-2" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
-					transform="matrix(1,6.66784E-018,-7.53521E-018,1,-0.532386,1.96565)" class="st1">
-				<path d="M17.63 626.01 L1.67 635.17 L-33.6 573.7 L-17.63 564.54 L17.63 626.01 Z" class="st2"/>
-				<path d="M0 595.28 L133.35 595.28" class="st3"/>
-				<path d="M17.63 626.01 L1.67 635.17 L-33.6 573.7 L-17.63 564.54 L17.63 626.01" class="st4"/>
+					transform="matrix(1,0,0,1,-0.532386,1.96565)" class="st1">
+				<path d="M17.63 303.62 L1.67 312.78 L-33.6 251.31 L-17.63 242.16 L17.63 303.62 Z" class="st2"/>
+				<path d="M0 272.89 L131.85 272.89" class="st3"/>
+				<path d="M17.63 303.62 L1.67 312.78 L-33.6 251.31 L-17.63 242.16 L17.63 303.62" class="st4"/>
 			</g>
-			<path d="M17.63 626.01 L1.67 635.17 L-33.6 573.7 L-17.63 564.54 L17.63 626.01 Z" class="st6"/>
-			<path d="M0 595.28 L133.35 595.28" class="st7"/>
-			<path d="M17.63 626.01 L1.67 635.17 L-33.6 573.7 L-17.63 564.54 L17.63 626.01" class="st8"/>
-			<text x="496.31" y="309.05" transform="rotate(60.1547)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Método</text>		</g>
-		<g id="shape4-18" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(976.58,-111.087) rotate(60.2551)">
+			<path d="M17.63 303.62 L1.67 312.78 L-33.6 251.31 L-17.63 242.16 L17.63 303.62 Z" class="st6"/>
+			<path d="M0 272.89 L131.85 272.89" class="st7"/>
+			<path d="M17.63 303.62 L1.67 312.78 L-33.6 251.31 L-17.63 242.16 L17.63 303.62" class="st8"/>
+			<text x="216.68" y="148.61" transform="rotate(60.1547)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Método</text>		</g>
+		<g id="shape4-18" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(648.17,-109.116) rotate(60.2551)">
 			<title>Categoría 1.4</title>
 			<desc>Infraestructura</desc>
 			<v:userDefs>
@@ -99,19 +93,19 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-7.98945" cy="590.71" width="81.85" height="18.4037" transform="rotate(-60.2551)"/>
+			<v:textRect cx="-7.98945" cy="268.324" width="81.85" height="18.4037" transform="rotate(-60.2551)"/>
 			<g id="shadow4-19" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
-					transform="matrix(1,1.14112E-017,2.51806E-017,1,1.96471,-0.53583)" class="st1">
-				<path d="M-20.3 630.81 L-36.28 621.68 L4.32 550.61 L20.3 559.74 L-20.3 630.81 Z" class="st2"/>
-				<path d="M0 595.28 L108.73 595.28" class="st3"/>
-				<path d="M-20.3 630.81 L-36.28 621.68 L4.32 550.61 L20.3 559.74 L-20.3 630.81" class="st4"/>
+					transform="matrix(1,0,0,1,1.96471,-0.53583)" class="st1">
+				<path d="M-20.3 308.42 L-36.28 299.29 L4.32 228.23 L20.3 237.36 L-20.3 308.42 Z" class="st2"/>
+				<path d="M0 272.89 L107.23 272.89" class="st3"/>
+				<path d="M-20.3 308.42 L-36.28 299.29 L4.32 228.23 L20.3 237.36 L-20.3 308.42" class="st4"/>
 			</g>
-			<path d="M-20.3 630.81 L-36.28 621.68 L4.32 550.61 L20.3 559.74 L-20.3 630.81 Z" class="st6"/>
-			<path d="M0 595.28 L108.73 595.28" class="st7"/>
-			<path d="M-20.3 630.81 L-36.28 621.68 L4.32 550.61 L20.3 559.74 L-20.3 630.81" class="st8"/>
-			<text x="-554.41" y="289.74" transform="rotate(-60.2551)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Infraestructura</text>		</g>
+			<path d="M-20.3 308.42 L-36.28 299.29 L4.32 228.23 L20.3 237.36 L-20.3 308.42 Z" class="st6"/>
+			<path d="M0 272.89 L107.23 272.89" class="st7"/>
+			<path d="M-20.3 308.42 L-36.28 299.29 L4.32 228.23 L20.3 237.36 L-20.3 308.42" class="st8"/>
+			<text x="-274.5" y="129.79" transform="rotate(-60.2551)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Infraestructura</text>		</g>
 		<g id="shape5-32" v:mID="5" v:groupContext="shape" v:layerMember="0"
-				transform="translate(-15.2056,109.253) rotate(-60.2551)">
+				transform="translate(216.204,111.224) rotate(-60.2551)">
 			<title>Categoría 2.5</title>
 			<desc>Medida</desc>
 			<v:userDefs>
@@ -122,18 +116,18 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-7.98945" cy="599.841" width="70.87" height="18.4037" transform="rotate(60.2551)"/>
+			<v:textRect cx="-7.98945" cy="277.455" width="70.87" height="18.4037" transform="rotate(60.2551)"/>
 			<g id="shadow5-33" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
-					transform="matrix(1,3.31766E-017,-2.92192E-017,1,-0.53583,1.96471)" class="st1">
-				<path d="M17.58 626.04 L1.6 635.17 L-33.56 573.64 L-17.58 564.51 L17.58 626.04 Z" class="st2"/>
-				<path d="M0 595.28 L133.97 595.28" class="st3"/>
-				<path d="M17.58 626.04 L1.6 635.17 L-33.56 573.64 L-17.58 564.51 L17.58 626.04" class="st4"/>
+					transform="matrix(1,0,0,1,-0.53583,1.96471)" class="st1">
+				<path d="M17.58 303.65 L1.6 312.78 L-33.56 251.26 L-17.58 242.12 L17.58 303.65 Z" class="st2"/>
+				<path d="M0 272.89 L132.47 272.89" class="st3"/>
+				<path d="M17.58 303.65 L1.6 312.78 L-33.56 251.26 L-17.58 242.12 L17.58 303.65" class="st4"/>
 			</g>
-			<path d="M17.58 626.04 L1.6 635.17 L-33.56 573.64 L-17.58 564.51 L17.58 626.04 Z" class="st6"/>
-			<path d="M0 595.28 L133.97 595.28" class="st7"/>
-			<path d="M17.58 626.04 L1.6 635.17 L-33.56 573.64 L-17.58 564.51 L17.58 626.04" class="st8"/>
-			<text x="497.7" y="308.14" transform="rotate(60.2551)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Medida</text>		</g>
-		<g id="shape9-46" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(501.732,-259.315)">
+			<path d="M17.58 303.65 L1.6 312.78 L-33.56 251.26 L-17.58 242.12 L17.58 303.65 Z" class="st6"/>
+			<path d="M0 272.89 L132.47 272.89" class="st7"/>
+			<path d="M17.58 303.65 L1.6 312.78 L-33.56 251.26 L-17.58 242.12 L17.58 303.65" class="st8"/>
+			<text x="217.79" y="148.19" transform="rotate(60.2551)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Medida</text>		</g>
+		<g id="shape9-46" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(453.232,-94.9062)">
 			<title>Causa principal 1.9</title>
 			<desc>Falta de instrumentos graduados en la distribución</desc>
 			<v:userDefs>
@@ -144,15 +138,15 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-49.9514" cy="595.276" width="99.91" height="23.2035"/>
+			<v:textRect cx="-49.9514" cy="272.889" width="99.91" height="23.2035"/>
 			<g id="shadow9-47" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-				<path d="M0 595.28 L33.58 595.28" class="st3"/>
+				<path d="M0 272.89 L32.08 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L33.58 595.28" class="st7"/>
-			<text x="-97.9" y="592.88" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Falta de instrumentos <v:newlineChar/><tspan
+			<path d="M0 272.89 L32.08 272.89" class="st7"/>
+			<text x="-97.9" y="270.49" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Falta de instrumentos <v:newlineChar/><tspan
 						x="-97.9" dy="1.2em" class="st12">graduados en la distribución</tspan></text>		</g>
-		<g id="shape11-59" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(408.189,-365.92)">
+		<g id="shape11-59" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(359.689,-201.511)">
 			<title>Causa principal 1.11</title>
 			<desc>Mal diseño de la infraestructura</desc>
 			<v:userDefs>
@@ -163,15 +157,15 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-35.4331" cy="595.276" width="70.87" height="23.2035"/>
+			<v:textRect cx="-35.4331" cy="272.889" width="70.87" height="23.2035"/>
 			<g id="shadow11-60" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-				<path d="M0 595.28 L71.78 595.28" class="st3"/>
+				<path d="M0 272.89 L70.28 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L71.78 595.28" class="st7"/>
-			<text x="-68.87" y="592.88" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Mal diseño de la <v:newlineChar/><tspan
+			<path d="M0 272.89 L70.28 272.89" class="st7"/>
+			<text x="-68.87" y="270.49" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Mal diseño de la <v:newlineChar/><tspan
 						x="-68.87" dy="1.2em" class="st12">infraestructura</tspan></text>		</g>
-		<g id="shape12-72" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(416.693,-392.458)">
+		<g id="shape12-72" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(368.193,-228.049)">
 			<title>Causa principal 1.12</title>
 			<desc>Poca inversión en uso de nuevas tecnologías</desc>
 			<v:userDefs>
@@ -182,16 +176,16 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-39.836" cy="595.276" width="79.68" height="23.2035"/>
+			<v:textRect cx="-39.836" cy="272.889" width="79.68" height="23.2035"/>
 			<g id="shadow12-73" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-				<path d="M0 595.28 L46.69 595.28" class="st3"/>
+				<path d="M0 272.89 L45.19 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L46.69 595.28" class="st7"/>
-			<text x="-77.67" y="592.88" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Poca inversión en uso <v:newlineChar/><tspan
+			<path d="M0 272.89 L45.19 272.89" class="st7"/>
+			<text x="-77.67" y="270.49" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Poca inversión en uso <v:newlineChar/><tspan
 						x="-77.67" dy="1.2em" class="st12">de nuevas tecnologías</tspan></text>		</g>
 		<g id="shape2-85" v:mID="2" v:groupContext="shape" v:layerMember="0"
-				transform="translate(783.824,-111.087) rotate(60.2551)">
+				transform="translate(455.414,-109.116) rotate(60.2551)">
 			<title>Categoría 1.8</title>
 			<desc>Mano de obra</desc>
 			<v:userDefs>
@@ -202,18 +196,18 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-7.98945" cy="590.71" width="77.01" height="18.4037" transform="rotate(-60.2551)"/>
+			<v:textRect cx="-7.98945" cy="268.324" width="77.01" height="18.4037" transform="rotate(-60.2551)"/>
 			<g id="shadow2-86" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
-					transform="matrix(1,-2.72406E-017,-1.34441E-017,1,1.96471,-0.53583)" class="st1">
-				<path d="M-19.1 628.71 L-35.08 619.57 L3.12 552.71 L19.1 561.85 L-19.1 628.71 Z" class="st2"/>
-				<path d="M0 595.28 L108.73 595.28" class="st3"/>
-				<path d="M-19.1 628.71 L-35.08 619.57 L3.12 552.71 L19.1 561.85 L-19.1 628.71" class="st4"/>
+					transform="matrix(1,0,0,1,1.96471,-0.53583)" class="st1">
+				<path d="M-19.1 306.32 L-35.08 297.19 L3.12 230.33 L19.1 239.46 L-19.1 306.32 Z" class="st2"/>
+				<path d="M0 272.89 L107.23 272.89" class="st3"/>
+				<path d="M-19.1 306.32 L-35.08 297.19 L3.12 230.33 L19.1 239.46 L-19.1 306.32" class="st4"/>
 			</g>
-			<path d="M-19.1 628.71 L-35.08 619.57 L3.12 552.71 L19.1 561.85 L-19.1 628.71 Z" class="st6"/>
-			<path d="M0 595.28 L108.73 595.28" class="st7"/>
-			<path d="M-19.1 628.71 L-35.08 619.57 L3.12 552.71 L19.1 561.85 L-19.1 628.71" class="st8"/>
-			<text x="-551.99" y="289.74" transform="rotate(-60.2551)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Mano de obra</text>		</g>
-		<g id="shape13-99" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(233.858,-365.669)">
+			<path d="M-19.1 306.32 L-35.08 297.19 L3.12 230.33 L19.1 239.46 L-19.1 306.32 Z" class="st6"/>
+			<path d="M0 272.89 L107.23 272.89" class="st7"/>
+			<path d="M-19.1 306.32 L-35.08 297.19 L3.12 230.33 L19.1 239.46 L-19.1 306.32" class="st8"/>
+			<text x="-272.08" y="129.79" transform="rotate(-60.2551)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Mano de obra</text>		</g>
+		<g id="shape13-99" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(185.358,-201.26)">
 			<title>Causa principal 1.13</title>
 			<desc>Despreocupación hacia el trabajo</desc>
 			<v:userDefs>
@@ -224,14 +218,14 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-58.2013" cy="595.276" width="116.41" height="17.0079"/>
+			<v:textRect cx="-58.2013" cy="272.889" width="116.41" height="17.0079"/>
 			<g id="shadow13-100" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-				<path d="M0 595.28 L53.99 595.28" class="st3"/>
+				<path d="M0 272.89 L52.49 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L53.99 595.28" class="st7"/>
-			<text x="-113.5" y="597.68" class="st11" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Despreocupación hacia el trabajo</text>		</g>
-		<g id="group16-111" transform="translate(107.717,-311.811)" v:mID="16" v:groupContext="group">
+			<path d="M0 272.89 L52.49 272.89" class="st7"/>
+			<text x="-113.5" y="275.29" class="st11" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Despreocupación hacia el trabajo</text>		</g>
+		<g id="group16-111" transform="translate(59.2165,-147.402)" v:mID="16" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
@@ -248,23 +242,23 @@
 					<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-				<v:textRect cx="554.173" cy="595.276" width="133.23" height="61.604"/>
+				<v:textRect cx="554.173" cy="272.889" width="133.23" height="61.604"/>
 				<g id="shadow1-113" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 						transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-					<path d="M487.56 626.08 L487.56 564.47 L620.79 564.47 L620.79 626.08 L487.56 626.08 Z" class="st2"/>
-					<path d="M0 595.28 L482.02 595.28" class="st3"/>
-					<path d="M487.56 626.08 L487.56 564.47 L620.79 564.47 L620.79 626.08 L487.56 626.08" class="st4"/>
+					<path d="M487.56 303.69 L487.56 242.09 L620.79 242.09 L620.79 303.69 L487.56 303.69 Z" class="st2"/>
+					<path d="M0 272.89 L480.52 272.89" class="st3"/>
+					<path d="M487.56 303.69 L487.56 242.09 L620.79 242.09 L620.79 303.69 L487.56 303.69" class="st4"/>
 				</g>
-				<path d="M487.56 626.08 L487.56 564.47 L620.79 564.47 L620.79 626.08 L487.56 626.08 Z" class="st6"/>
-				<path d="M0 595.28 L482.02 595.28" class="st7"/>
-				<path d="M487.56 626.08 L487.56 564.47 L620.79 564.47 L620.79 626.08 L487.56 626.08" class="st8"/>
-				<text x="509.27" y="577.28" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Uso ineficiente de<v:newlineChar/><tspan
+				<path d="M487.56 303.69 L487.56 242.09 L620.79 242.09 L620.79 303.69 L487.56 303.69 Z" class="st6"/>
+				<path d="M0 272.89 L480.52 272.89" class="st7"/>
+				<path d="M487.56 303.69 L487.56 242.09 L620.79 242.09 L620.79 303.69 L487.56 303.69" class="st8"/>
+				<text x="509.27" y="254.89" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Uso ineficiente de<v:newlineChar/><tspan
 							x="492.27" dy="1.2em" class="st12">las materias primas en la <v:newlineChar/></tspan><tspan x="505.89"
 							dy="1.2em" class="st12">alimentación de las <v:newlineChar/></tspan><tspan x="518.42" dy="1.2em"
 							class="st12">vacas lecheras</tspan></text>			</g>
 		</g>
-		<g id="shape23-129" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(274.488,-273.531)">
-			<title>Causa principal 1.11.23</title>
+		<g id="shape23-129" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(225.988,-109.122)">
+			<title>Causa principal 1.23</title>
 			<desc>Manejo manual de grandes filas de datos</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
@@ -274,17 +268,17 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-39.0296" cy="595.276" width="78.06" height="23.2035"/>
+			<v:textRect cx="-39.0296" cy="272.889" width="78.06" height="23.2035"/>
 			<g id="shadow23-130" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-				<path d="M0 595.28 L98.78 595.28" class="st3"/>
+				<path d="M0 272.89 L97.28 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L98.78 595.28" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="-76.0591" y="585.676" width="72.2469" height="19.1997" class="st13"/>
-			<text x="-76.06" y="592.88" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Manejo manual de <v:newlineChar/><tspan
+			<path d="M0 272.89 L97.28 272.89" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-76.0591" y="263.29" width="72.2469" height="19.1997" class="st13"/>
+			<text x="-76.06" y="270.49" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Manejo manual de <v:newlineChar/><tspan
 						x="-76.06" dy="1.2em" class="st12">grandes filas de datos</tspan></text>		</g>
-		<g id="shape24-143" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(471.496,-286.439)">
-			<title>Causa principal 1.11.24</title>
+		<g id="shape24-143" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(422.996,-122.03)">
+			<title>Causa principal 1.24</title>
 			<desc>No existe medición precisa de las dosis</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
@@ -294,17 +288,17 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-35.584" cy="595.276" width="71.17" height="23.2035"/>
+			<v:textRect cx="-35.584" cy="272.889" width="71.17" height="23.2035"/>
 			<g id="shadow24-144" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-				<path d="M0 595.28 L79.32 595.28" class="st3"/>
+				<path d="M0 272.89 L77.82 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L79.32 595.28" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="-67.3576" y="585.676" width="63.5471" height="19.1997" class="st13"/>
-			<text x="-67.36" y="592.88" class="st11" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>No existe medición <v:newlineChar/><tspan
+			<path d="M0 272.89 L77.82 272.89" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-67.3576" y="263.29" width="63.5471" height="19.1997" class="st13"/>
+			<text x="-67.36" y="270.49" class="st11" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>No existe medición <v:newlineChar/><tspan
 						x="-67.29" dy="1.2em" class="st12">precisa de las dosis</tspan></text>		</g>
 		<g id="shape27-157" v:mID="27" v:groupContext="shape" v:layerMember="0"
-				transform="translate(-410.143,120.616) rotate(-61.5788)">
+				transform="translate(-175.113,116.078) rotate(-61.5788)">
 			<title>Categoría 2.13</title>
 			<desc>Materia prima</desc>
 			<v:userDefs>
@@ -315,21 +309,21 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-8.09278" cy="599.655" width="78.52" height="18.4037" transform="rotate(61.5788)"/>
+			<v:textRect cx="-8.09278" cy="277.269" width="78.52" height="18.4037" transform="rotate(61.5788)"/>
 			<g id="shadow27-158" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
-					transform="matrix(1,6.39679E-018,6.39679E-018,1,-0.581073,1.95181)" class="st1">
-				<path d="M18.69 629.8 L2.5 638.56 L-34.87 569.51 L-18.69 560.75 L18.69 629.8 Z" class="st2"/>
-				<path d="M0 595.28 L131.44 595.28" class="st3"/>
-				<path d="M18.69 629.8 L2.5 638.56 L-34.87 569.51 L-18.69 560.75 L18.69 629.8" class="st4"/>
+					transform="matrix(1,0,0,1,-0.581073,1.95181)" class="st1">
+				<path d="M18.69 307.42 L2.5 316.18 L-34.87 247.12 L-18.69 238.36 L18.69 307.42 Z" class="st2"/>
+				<path d="M0 272.89 L129.94 272.89" class="st3"/>
+				<path d="M18.69 307.42 L2.5 316.18 L-34.87 247.12 L-18.69 238.36 L18.69 307.42" class="st4"/>
 			</g>
-			<path d="M18.69 629.8 L2.5 638.56 L-34.87 569.51 L-18.69 560.75 L18.69 629.8 Z" class="st6"/>
-			<path d="M0 595.28 L131.44 595.28" class="st7"/>
-			<path d="M18.69 629.8 L2.5 638.56 L-34.87 569.51 L-18.69 560.75 L18.69 629.8" class="st8"/>
-			<rect v:rectContext="textBkgnd" x="487.628" y="285.323" width="71.8017" height="14.4001" transform="rotate(61.5788)"
-					class="st13"/>
-			<text x="487.63" y="296.12" transform="rotate(61.5788)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Materia prima</text>		</g>
-		<g id="shape28-172" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(121.89,-286.299)">
-			<title>Causa principal 1.11.28</title>
+			<path d="M18.69 307.42 L2.5 316.18 L-34.87 247.12 L-18.69 238.36 L18.69 307.42 Z" class="st6"/>
+			<path d="M0 272.89 L129.94 272.89" class="st7"/>
+			<path d="M18.69 307.42 L2.5 316.18 L-34.87 247.12 L-18.69 238.36 L18.69 307.42" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="204.098" y="131.884" width="71.8017" height="14.4001" transform="rotate(61.5788)"
+					class="st14"/>
+			<text x="204.1" y="142.68" transform="rotate(61.5788)" class="st10" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Materia prima</text>		</g>
+		<g id="shape28-172" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(73.3897,-121.89)">
+			<title>Causa principal 1.28</title>
 			<desc>Robo de materias primas</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
@@ -339,17 +333,17 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-35.4331" cy="595.276" width="70.87" height="23.2035"/>
+			<v:textRect cx="-35.4331" cy="272.889" width="70.87" height="23.2035"/>
 			<g id="shadow28-173" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-				<path d="M0 595.28 L36.57 595.28" class="st3"/>
+				<path d="M0 272.89 L35.07 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L36.57 595.28" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="-68.8661" y="585.676" width="58.5434" height="19.1997" class="st13"/>
-			<text x="-68.87" y="592.88" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Robo de materias <v:newlineChar/><tspan
+			<path d="M0 272.89 L35.07 272.89" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-68.8661" y="263.29" width="58.5434" height="19.1997" class="st14"/>
+			<text x="-68.87" y="270.49" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Robo de materias <v:newlineChar/><tspan
 						x="-68.87" dy="1.2em" class="st12">primas</tspan></text>		</g>
-		<g id="shape29-186" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(510.236,-232.811)">
-			<title>Causa principal 1.11.29</title>
+		<g id="shape29-186" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(461.736,-68.4019)">
+			<title>Causa principal 1.29</title>
 			<desc>Variabilidad en las densidades de los componentes</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
@@ -359,16 +353,16 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-54.0784" cy="595.276" width="108.16" height="23.2035"/>
+			<v:textRect cx="-54.0784" cy="272.889" width="108.16" height="23.2035"/>
 			<g id="shadow29-187" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-				<path d="M0 595.28 L9.93 595.28" class="st3"/>
+				<path d="M0 272.89 L8.43 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L9.93 595.28" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="-106.157" y="585.676" width="100.536" height="19.1997" class="st13"/>
-			<text x="-106.16" y="592.88" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Variabilidad en las densidades <v:newlineChar/><tspan
+			<path d="M0 272.89 L8.43 272.89" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-106.157" y="263.29" width="100.536" height="19.1997" class="st13"/>
+			<text x="-106.16" y="270.49" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Variabilidad en las densidades <v:newlineChar/><tspan
 						x="-106.16" dy="1.2em" class="st12">de los componentes</tspan></text>		</g>
-		<g id="group30-200" transform="translate(243.78,-336.849)" v:mID="30" v:groupContext="group">
+		<g id="group30-200" transform="translate(195.28,-172.44)" v:mID="30" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
@@ -385,22 +379,22 @@
 					<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-				<v:textRect cx="-63.2189" cy="595.276" width="126.44" height="17.0079"/>
+				<v:textRect cx="-63.2189" cy="272.889" width="126.44" height="17.0079"/>
 				<g id="shadow14-202" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 						transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-					<path d="M0 595.28 L60.05 595.28" class="st3"/>
+					<path d="M0 272.89 L58.55 272.89" class="st3"/>
 				</g>
-				<path d="M0 595.28 L60.05 595.28" class="st7"/>
-				<text x="-123.53" y="597.68" class="st11" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Poca calificación de la mano de obra</text>			</g>
+				<path d="M0 272.89 L58.55 272.89" class="st7"/>
+				<text x="-123.53" y="275.29" class="st11" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Poca calificación de la mano de obra</text>			</g>
 		</g>
-		<g id="group17-213" transform="translate(427.891,-339.765)" v:mID="17" v:groupContext="group">
+		<g id="group17-213" transform="translate(379.391,-175.356)" v:mID="17" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<title>Hoja.17</title>
 			<g id="shape10-214" v:mID="10" v:groupContext="shape" v:layerMember="0"
-					transform="translate(-424.99,178.459) rotate(-45.5563)">
+					transform="translate(-194.826,81.81) rotate(-45.5563)">
 				<title>Causa principal 1.10</title>
 				<desc>Falta de divisiones en los comederos de las vacas</desc>
 				<v:userDefs>
@@ -411,17 +405,17 @@
 					<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-				<v:textRect cx="-31.593" cy="563.063" width="90.24" height="23.2035" transform="rotate(45.5563)"/>
+				<v:textRect cx="-31.593" cy="240.677" width="90.24" height="23.2035" transform="rotate(45.5563)"/>
 				<g id="shadow10-215" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
-						transform="matrix(1,-2.88398E-017,2.81893E-017,1,-0.0197723,2.03637)" class="st1">
-					<path d="M0 595.28 L31.09 595.28" class="st3"/>
+						transform="matrix(1,0,0,1,-0.0197723,2.03637)" class="st1">
+					<path d="M0 272.89 L29.59 272.89" class="st3"/>
 				</g>
-				<path d="M0 595.28 L31.09 595.28" class="st14"/>
-				<text x="336.75" y="414.42" transform="rotate(45.5563)" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Falta de divisiones en los <v:newlineChar/><tspan
-							x="336.75" dy="1.2em" class="st12">comederos de las vacas</tspan></text>			</g>
+				<path d="M0 272.89 L29.59 272.89" class="st15"/>
+				<text x="106.59" y="188.68" transform="rotate(45.5563)" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Falta de divisiones en los <v:newlineChar/><tspan
+							x="106.59" dy="1.2em" class="st12">comederos de las vacas</tspan></text>			</g>
 		</g>
 		<g id="shape18-228" v:mID="18" v:groupContext="shape" v:layerMember="0"
-				transform="translate(-33.966,-114.164) rotate(-51.3402)">
+				transform="translate(169.275,-70.7479) rotate(-51.3402)">
 			<title>Causa 4 secundaria.12</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
@@ -431,19 +425,19 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<g id="shadow18-229" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
-					transform="matrix(1,1.82146E-017,1.82146E-017,1,-0.22489,2.02401)" class="st1">
-				<path d="M0 595.28 L30.76 595.28" class="st3"/>
+					transform="matrix(1,0,0,1,-0.22489,2.02401)" class="st1">
+				<path d="M0 272.89 L29.26 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L30.76 595.28" class="st7"/>
+			<path d="M0 272.89 L29.26 272.89" class="st7"/>
 		</g>
-		<g id="group15-239" transform="translate(272.126,-236.693)" v:mID="15" v:groupContext="group">
+		<g id="group15-239" transform="translate(223.626,-72.284)" v:mID="15" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<title>Hoja.15</title>
 			<g id="shape8-240" v:mID="8" v:groupContext="shape" v:layerMember="0"
-					transform="translate(1.26545,0.00134507) rotate(0.121801)">
+					transform="translate(0.580116,0.000616614) rotate(0.121801)">
 				<title>Causa principal 1.8</title>
 				<desc>Dispersión por lanzar el alimento</desc>
 				<v:userDefs>
@@ -454,17 +448,17 @@
 					<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-				<v:textRect cx="-38.0803" cy="595.357" width="76.17" height="23.2035" transform="rotate(-0.121801)"/>
+				<v:textRect cx="-38.0803" cy="272.97" width="76.17" height="23.2035" transform="rotate(-0.121801)"/>
 				<g id="shadow8-241" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
-						transform="matrix(1,-1.66018E-019,3.17637E-020,1,1.44306,1.43694)" class="st1">
-					<path d="M0 595.28 L79.91 595.28" class="st3"/>
+						transform="matrix(1,0,0,1,1.44306,1.43694)" class="st1">
+					<path d="M0 272.89 L78.41 272.89" class="st3"/>
 				</g>
-				<path d="M0 595.28 L79.91 595.28" class="st7"/>
-				<text x="-75.43" y="592.87" transform="rotate(-0.121801)" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Dispersión por lanzar<v:newlineChar/><tspan
-							x="-75.43" dy="1.2em" class="st12">el alimento</tspan></text>			</g>
+				<path d="M0 272.89 L78.41 272.89" class="st7"/>
+				<text x="-74.74" y="270.49" transform="rotate(-0.121801)" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Dispersión por lanzar<v:newlineChar/><tspan
+							x="-74.74" dy="1.2em" class="st12">el alimento</tspan></text>			</g>
 		</g>
 		<g id="shape31-253" v:mID="31" v:groupContext="shape" v:layerMember="0"
-				transform="translate(231.608,-394.015) rotate(-0.0801895)">
+				transform="translate(183.559,-229.607) rotate(-0.0801895)">
 			<title>Causa principal 1</title>
 			<desc>Múltiples tareas para el operario</desc>
 			<v:userDefs>
@@ -475,14 +469,14 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-57.3989" cy="595.195" width="114.8" height="17.0079" transform="rotate(0.0801895)"/>
+			<v:textRect cx="-57.3989" cy="272.809" width="114.8" height="17.0079" transform="rotate(0.0801895)"/>
 			<g id="shadow31-254" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
-					transform="matrix(1,1.62948E-019,-1.15302E-019,1,1.43798,1.44201)" class="st1">
-				<path d="M0 595.28 L38.68 595.28" class="st3"/>
+					transform="matrix(1,2.1684E-19,-2.1684E-19,1,1.43798,1.44201)" class="st1">
+				<path d="M0 272.89 L37.18 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L38.68 595.28" class="st7"/>
-			<text x="-111.06" y="597.68" transform="rotate(0.0801895)" class="st11" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Múltiples tareas para el operario</text>		</g>
-		<g id="shape32-265" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(127.559,-255.25)">
+			<path d="M0 272.89 L37.18 272.89" class="st7"/>
+			<text x="-111.51" y="275.29" transform="rotate(0.0801895)" class="st11" v:langID="5130"><v:paragraph v:horizAlign="1"/><v:tabList/>Múltiples tareas para el operario</text>		</g>
+		<g id="shape32-265" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(79.059,-90.8416)">
 			<title>Causa principal 1.32</title>
 			<desc>Distintos tipos de alimentos y textura física (granulometría)</desc>
 			<v:userDefs>
@@ -493,17 +487,17 @@
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-38.5296" cy="595.276" width="77.06" height="32.8035"/>
+			<v:textRect cx="-38.5296" cy="272.889" width="77.06" height="32.8035"/>
 			<g id="shadow32-266" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 					transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-				<path d="M0 595.28 L14.87 595.28" class="st3"/>
+				<path d="M0 272.89 L13.37 272.89" class="st3"/>
 			</g>
-			<path d="M0 595.28 L14.87 595.28" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="-75.0591" y="580.876" width="71.2469" height="28.7998" class="st13"/>
-			<text x="-75.06" y="588.08" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Distintos tipos de <v:newlineChar/><tspan
+			<path d="M0 272.89 L13.37 272.89" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-75.0591" y="258.49" width="71.2469" height="28.7998" class="st13"/>
+			<text x="-75.06" y="265.69" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Distintos tipos de <v:newlineChar/><tspan
 						x="-75.06" dy="1.2em" class="st12">alimentos y textura<v:newlineChar/></tspan><tspan x="-75.06" dy="1.2em"
 						class="st12">física </tspan>(granulometría)</text>		</g>
-		<g id="group34-280" transform="translate(495.354,-206.929)" v:mID="34" v:groupContext="group">
+		<g id="group34-280" transform="translate(446.854,-42.5202)" v:mID="34" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
@@ -520,14 +514,14 @@
 					<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 				</v:userDefs>
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-				<v:textRect cx="-46.1425" cy="595.276" width="92.29" height="23.2035"/>
+				<v:textRect cx="-46.1425" cy="272.889" width="92.29" height="23.2035"/>
 				<g id="shadow33-282" v:groupContext="shadow" v:shadowOffsetX="1.44" v:shadowOffsetY="-1.44" v:shadowType="1"
 						transform="matrix(1,0,0,1,1.44,1.44)" class="st1">
-					<path d="M0 595.28 L8.81 595.28" class="st3"/>
+					<path d="M0 272.89 L7.31 272.89" class="st3"/>
 				</g>
-				<path d="M0 595.28 L8.81 595.28" class="st7"/>
-				<rect v:rectContext="textBkgnd" x="-90.285" y="585.676" width="84.6642" height="19.1997" class="st13"/>
-				<text x="-90.29" y="592.88" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Imposibilidad de manejar <v:newlineChar/><tspan
+				<path d="M0 272.89 L7.31 272.89" class="st7"/>
+				<rect v:rectContext="textBkgnd" x="-90.285" y="263.29" width="84.6642" height="19.1997" class="st13"/>
+				<text x="-90.29" y="270.49" class="st11" v:langID="5130"><v:paragraph/><v:tabList/>Imposibilidad de manejar <v:newlineChar/><tspan
 							x="-90.29" dy="1.2em" class="st12">cantidades decimales</tspan></text>			</g>
 		</g>
 	</g>
