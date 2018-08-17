@@ -1,0 +1,15 @@
+----------------------------------------------------------
+Calculo de transportadores sin fin
+https://ingemecanica.com/tutorialsemanal/tutorialn143.html
+-------------------
+Screw conveyor vs belt conveyor. Questions you need to formulate.
+https://www.machinedesign.com/news/selecting-best-conveyor
+-------------------
+Calculo de la velocidad y amplitud de vibraciones para el caso del
+concentrado
+https://www.tarnos.com/wp-content/uploads/pdf/vibracion/es/transportadores.pdf
+-------------------
+Resultados:
+	Vel 	= 20,1 m/min.
+	Ampl	= 6-23 mm
+
