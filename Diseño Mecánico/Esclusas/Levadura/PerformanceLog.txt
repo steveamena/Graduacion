@@ -1,6 +1,0 @@
-Processing material properties:  0 hr 0 min 0 sec
-Processing element groups:  0 hr 0 min 0 sec
-Processing drop test gap nodes:  0 hr 0 min 0 sec
-Updating thickness for shell regions:  0 hr 0 min 0 sec
-Processing rconst for elements:  0 hr 0 min 0 sec
-Processing egroups:  0 hr 0 min 0 sec
