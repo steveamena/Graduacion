@@ -1,0 +1,21 @@
+Piezas de corte:
+
+Levadura:
+Lateral		2	2
+Frontal		1	1
+Atras1		1	1
+Atras2		1	1
+Compuerta	1	1
+Soporte esclusa	1	1
+SoportePin	1	1
+__________________	
+			
+Mineral:		
+Lateral		2	1	
+Frontal		1	1	
+Atras1		1	1	
+Atras2		1	1	
+Compuerta	1	1
+SoporteEsclusa	1	1
+SoportePin	1	1
+
