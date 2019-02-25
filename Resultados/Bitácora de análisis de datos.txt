@@ -1,0 +1,11 @@
+Fecha: 11/2/2019
+Procesados archivo M7.
+Resultado de los análisis: 
+	1. Calculo de los parámetros de sobreimpulso,
+	2. Tiempo de asentamiento.
+	3. Efecto en el error de estado estacionario.
+Observaciones:
+	1. Como lo que interesa es el efecto en porcentual de los datos en comparación
+	no hae falta calcular una ganancia para la LC. Solo con ese factor.
+	2. En el archivo M7, hay lecturas superiores a las 7e10, eliminarlas.
+ 

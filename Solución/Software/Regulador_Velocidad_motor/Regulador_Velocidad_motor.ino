@@ -4,6 +4,9 @@ int Time = 0;
 int Angulo = 45;
 int deltaT = 0;
 int tiempo = 0;
+bool ifUnico = false;
+int tensionCD = 0;
+
 
 void setup() {
   // put your setup code here, to run once:
@@ -18,20 +21,26 @@ void zeroCrossing(){
    CruceCero = true;
 }
 void loop() {
+
   if(CruceCero){
-    Time = millis();  
-    contador = contador +1;      
+    Time = micros();  
+    contador = contador +1;
+    tensionCD = analogRead(0);
+    Serial.println(tensionCD);          
     CruceCero = false;
 }
-  tiempo = 2;
-  deltaT = millis()-Time;
-  if(deltaT=tiempo){
+  tiempo = 7*tensionCD;
+  deltaT = micros()-Time;
+  
+  if((deltaT>=tiempo) && (deltaT<=tiempo+7000)){
     digitalWrite(5,HIGH);
     }
   digitalWrite(5,LOW);
- 
-  if(contador==60){
-    Serial.print("1\n");
+  
+  if(contador==120){
+//    Serial.print("1\n");
+//    Serial.print(analogRead(0));
+//    Serial.print("\n");
     contador = 0;
  }
 }
