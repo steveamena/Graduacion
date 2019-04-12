@@ -1,0 +1,102 @@
+##Programa prueba de concepto
+##Steve Mena Navarro
+##8/03/2019
+##PFG
+##Consuagro
+
+import RPi.GPIO as GPIO, time, sys
+from hx711 import HX711  			#Importar la clase HX711
+from hx711 import outliers_filter
+from dosificadora import Dosificadora
+
+def cleanAndExit():
+	#Limpiar puertos del GPIO y salir
+	print("Limpiando...")
+	GPIO.cleanup()
+	print("Bye...")
+	sys.exit()
+
+#Condicion de parada para cada secuencia de la dosificacion
+condicion 		= True
+condicionConc 	= True
+condicionMin 	= True
+condicionLev 	= True
+	
+
+#Iniciar GPIO del RPi
+print("----Bienvenido al programa prototipo de UberCow ------\n")
+try:
+	GPIO.setmode(GPIO.BCM)
+	GPIO.setwarnings(False)
+
+	#Inciar la secuencia
+	
+	##Definir las raciones
+	objConc 	= 1381
+	objMin 		= 10
+	objLev		= 10
+	
+	#Crear objeto Dosificadora
+	UberCow 	= Dosificadora()
+	UberCow.inicializarPuertos()
+	UberCow.inicializarSteppers()
+	UberCow.inicializarCeldas()
+	print("-------------------\nIniciada la secuencia\n----------------")
+	
+	#Encender motores
+	#UberCow.encenderMotores('Con')
+	#UberCow.encenderMotores('Min')
+	#UberCow.encenderMotores('Min')
+	
+	#print("Valores de tara")
+	#print(UberCow.asZeroA1,UberCow.asZeroA2,UberCow.asZeroB1,UberCow.asZeroB2)
+	print("\n---------------\nConc\tMineral\tLevadura")
+	
+	concOffset 	= UberCow.leerConcentrado(1)
+	minOffset	= UberCow.leerMineral(1)
+	
+	while(condicion):
+		masaConc 	= UberCow.leerConcentrado(1)-concOffset
+		masaMin		= UberCow.leerMineral(1)-minOffset
+		print(masaMin)
+	
+
+		"""
+		masaMin		= UberCow.leerMineral(1)
+		masaLev		= UberCow.leerLevadura(1)
+		print(masaConc,"\t",masaMin,"\t",masaLev)
+		
+		if((masaConc>objConc) and (condicionConc)):
+			UberCow.apagarMotores('Con')
+			condicionConc 	= False
+		
+		if((masaMin>objMin) and condicionMin):
+			UberCow.apagarMotores('Min')
+			condicionMin	 	= False
+		
+		if((masaLev>objLev) and condicionLev):
+			UberCow.apagarMotores('Lev')
+			condicionLev	= False
+		"""
+		#Activar pistones
+		if(not(condicionConc)and(not(condicionMin))):
+			for i in range(2):
+				time.sleep(1)
+				UberCow.abrirCerrarValvulas('Tolv',1)
+				UberCow.abrirCerrarValvulas('Min',1)
+				time.sleep(1)
+				UberCow.abrirCerrarValvulas('Tolv',0)
+				UberCow.abrirCerrarValvulas('Min',0)
+			print("Dosifcado")
+			break
+		
+		
+except(KeyboardInterrupt,SystemError,SystemExit):
+	cleanAndExit()
+
+finally:
+	GPIO.cleanup()
+	print("Bye")
+	
+	
+
