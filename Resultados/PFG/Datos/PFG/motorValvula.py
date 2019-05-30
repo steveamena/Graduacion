@@ -1,5 +1,6 @@
-##This is the test code for the stepper motor
-##STeve Mena Navarro PFG
+##Codigo para probar stepper motor por un tiempo y luego probar accionar
+##alguna valvula neumatica una vez detenido el motor
+##Steve Mena Navarro PFG
 
 #Start importing the required libraries
 import RPi.GPIO as GPIO

@@ -1,3 +1,5 @@
+#Metodo para calcular la calibracion de las celdas de carga
+
 import RPi.GPIO as GPIO
 import time
 import sys

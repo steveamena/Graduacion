@@ -1,22 +1,20 @@
-##This is the test code for the stepper motor
-##STeve Mena Navarro PFG
-##Programa que funciona como probador de motor concentrado y steppers
+##Codigo para probar los motores a pasos con una rampa
+##Steve Mena Navarro PFG
 ##Tiene dos modos, uno para que funciones el concentrado y otro los steppers.
 
-#Start importing the required libraries
 import RPi.GPIO as GPIO
 import time
 import sys
 
-#Define the function to clean up the GPIO
 def cleanAndExit():
 	print("Cleaning...")
 	GPIO.cleanup()
 	print("Bye...")
 	sys.exit()
 
-isStepper = False
+isStepper = True
 maxSpeed 	= 2667*2
+
 try:
 	GPIO.setmode(GPIO.BCM)
 	GPIO.setwarnings(False)
@@ -47,7 +45,6 @@ try:
 			time.sleep(0.5)
 		"""
 		pass
-
 
 except(KeyboardInterrupt,SystemExit):
 	stepper.stop()

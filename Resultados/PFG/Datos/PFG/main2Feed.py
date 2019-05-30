@@ -1,8 +1,8 @@
+##Codigo para dosificar mineral y levadura completos
+##Steve Mena Navarro PFG 
+# -----------------------
+#Importar librerias requeridas
 
-##Codigo para dosificar dos alimentos completos
-##Steve Mena Navarro PFG
-
-#Start importing the required libraries
 import RPi.GPIO as GPIO
 import time
 import sys

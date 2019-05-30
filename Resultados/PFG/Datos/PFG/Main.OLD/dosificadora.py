@@ -1,4 +1,9 @@
 ##Definicion de clase dosificadora
+##Nota: Esta clase unicamente funciona en python 2.7.x. 
+##		Fue diseñada cuando el concentrado tenia solo dos amplificadores HX711
+##		Y tenia que leerse el puerto A y puerto B uno a la vez,
+#		de ahi proviene la notacion A1, B1, etc. No funciona si hay un integrado por celda de carga.
+
 import RPi.GPIO as GPIO
 from hx711 import HX711
 

@@ -1,0 +1,4 @@
+Contiene los diseños iniciales de las esclusas de medición.
+En aquel momento se pensó medir cada alimento por separado. 
+Se decidió hacerlo cortado en acrílico.
+Las ideas fueron descartadas completamente.

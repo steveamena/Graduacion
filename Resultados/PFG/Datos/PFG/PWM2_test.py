@@ -1,7 +1,8 @@
-##This is the test code for the stepper motor
-##STeve Mena Navarro PFG
+#Programa para probar motor de Concentrado y stepper al mismo tiempo.
+#En ese momento el concentrado era controlado mediante un potenciometro.
+#Este Script no se volvio a usar mas.
+#Steve Mena Navarro PFG
 
-#Start importing the required libraries
 import RPi.GPIO as GPIO
 import time
 import sys

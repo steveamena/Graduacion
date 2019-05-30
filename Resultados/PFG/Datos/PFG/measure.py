@@ -1,3 +1,4 @@
+#Script para obtener lecturas desde el mineral o levadura.
 
 import RPi.GPIO as GPIO
 import time

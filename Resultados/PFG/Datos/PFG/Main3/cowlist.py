@@ -13,7 +13,7 @@ class Cowlist:
 	def __init__(self,filas,columnas):
 		#inicializa todos los parametros de la clase cowlist
 			self.listaVacas = np.zeros((filas,columnas),np.float32)
-			
+			self.aEspacio		= "_________________"
 	def __del__(self):
 		#Elimina cualquier rastro y destruye los objetos de la clase cowlist
 		nombre = self.__class__.__name__
@@ -46,5 +46,13 @@ class Cowlist:
 		return root.filename
 	
 	def get_cow_ration(self,cowNumber):
-		index = np.where(self.listaVacas[:,0]==int(cowNumber))[0][0]	
+		
+		a = np.where(self.listaVacas[:,0]==int(cowNumber))
+		index = a[0]
+		if index.size == 0:
+			print(self.aEspacio)
+			print("Numero de vaca no se encuentra en el archivo")
+			print(self.aEspacio)
+			return None
+			
 		return (self.listaVacas[index,0],self.listaVacas[index,1],self.listaVacas[index,2])

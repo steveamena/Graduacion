@@ -37,7 +37,7 @@ multiplo = 0.80
 
 #Programa principal
 print("___Programa prototipo de UberCow____\n")
-excel = False
+excel = True 
 #Si Excel es false, el programa no pide la lista de vacas
 
 try:
@@ -70,22 +70,17 @@ try:
 		if excel:
 			vaca 		= input("Digite el numero de vaca a preparar ")
 			racion		= listaVacas.get_cow_ration(vaca)
-			if (racion != None):
-				print("Numero de vaca\tVapFeed\t\tMultiplex Oro")
-				print("________________")
-				print("%d\t\t%f\t%f\n"%(racion[0],racion[1],racion[2]))
-				conObj = racion[1]
-				
-			else:
-				conObj	= float(input("Digite la cantidad de concentrado en g "))
-			
+			print("Numero de vaca\tVapFeed\t\tMultiplex Oro")
+			print("________________")
+			print("%d\t\t%f\t%f\n"%(racion[0],racion[1],racion[2]))
+			input("Presione una tecla para continuar ")
+		
 		else:
 
-		#Lectursa de los datos del usuario.
-			#float(input("Digite la cantidad de levadura en g "))
-			conObj		= float(input("Digite la cantidad de concentrado en g "))
-		minObj 		= 10.0#float(input("Digite la cantidad de mineral en g "))
-		levObj		= 10.0
+		#Lectura de los datos del usuario.
+			conObj		= 4000.0#float(input("Digite la cantidad de concentrado en g "))
+			minObj 		= 100.0#float(input("Digite la cantidad de mineral en g "))
+			levObj		= 100.0#float(input("Digite la cantidad de levadura en g "))
 		UberCow.tararCeldas()
 		UberCow.aMasaObj[0]		= conObj
 		UberCow.aConObj			= conObj
@@ -102,10 +97,10 @@ try:
 			masaConc 		= UberCow.leerConcentrado(4)
 			masaConcF		= UberCow.filtradorTamizador(masaConc,'Con')
 						
-			masaMin			= 100#UberCow.leerMineral(1)
+			masaMin			= 0#UberCow.leerMineral(1)
 			masaMin			= UberCow.filtradorTamizador(masaMin,'Min')
 
-			masaLev			= 100#UberCow.leerLevadura(1)		
+			masaLev			= 0#UberCow.leerLevadura(1)		
 			masaLev			= UberCow.filtradorTamizador(masaLev,'Lev')			
 
 			#print("%s\t%s\t%s"%(str(masaConc),str(masaMin),str(masaLev)))

@@ -1,4 +1,4 @@
-#This is the file which opens and clse the gates
+#Archivo para probar PWM a diferentes ciclos de trabajo.
 #Steve Mena Navarro
 #ITCR
 #4 September 2018

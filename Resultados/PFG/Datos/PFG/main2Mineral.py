@@ -1,5 +1,6 @@
-##Programa 
-##STeve Mena Navarro PFG
+##Programa que detenia los steppers al mismo tiempo en el momento es que
+##el mineral alcanzaba su objetivo.
+##Steve Mena Navarro PFG
 
 #Start importing the required libraries
 import RPi.GPIO as GPIO
@@ -16,7 +17,6 @@ def startLoadCell(sensibilidad):
 	hx.reset()
 	hx.tare()
 	return hx
-
 
 #Define la funcion para limpiar el GPIO
 def cleanAndExit():
@@ -91,6 +91,6 @@ try:
 except(KeyboardInterrupt,SystemExit):
 	stepper.stop()
 	cleanAndExit()
+	
 finally:
 	GPIO.cleanup()
-

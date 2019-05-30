@@ -1,8 +1,8 @@
 
-##This is the test code for the stepper motor
-##STeve Mena Navarro PFG
+##Archivo para probar la dosificacion de la levadura
+##Steve Mena Navarro PFG
 
-#Start importing the required libraries
+#importar las librerias requeridas
 import RPi.GPIO as GPIO
 import time
 import sys
@@ -36,7 +36,6 @@ try:
 	GPIO.setwarnings(False)
 	GPIO.setup(27,GPIO.OUT)
 	GPIO.setup(22,GPIO.OUT)
-
 	#Configura "el sentido de giro"
 	GPIO.output(27,GPIO.LOW)
 	#GPIO.output(21,GPIO.LOW)
@@ -48,6 +47,7 @@ try:
 	hx = startLoadCell(11734.0)
 	masa = hx.get_weight()
 	print("Celda de carga arrancada...")
+
 ##While que arranca el motor mientras haga falta masa	
 	condicion = True
 	while True:

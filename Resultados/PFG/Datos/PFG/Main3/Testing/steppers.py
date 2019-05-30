@@ -28,9 +28,9 @@ def cleanAndExit():
 def stepperSpeed(stepper,speed):
 	stepper.ChangeFrequency(speed)
 
-mineral 	= True
-maxSpeed 	= 2667
-aceleracion	= True
+mineral 	= False
+maxSpeed 	= 1000
+aceleracion	= False
 
 try:
 	GPIO.setmode(GPIO.BCM)

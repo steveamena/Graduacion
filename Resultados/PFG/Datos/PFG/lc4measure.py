@@ -1,3 +1,9 @@
+#Script usado para cuando se probaron las cuatro celdas de carga de la tolva 
+#romana inicialmente.
+#Nota: Funciona solamente si hay un amplificador por celda de carga.
+#Python 2.7.x
+#29/05/2019: Documentados detalles importantes
+
 import RPi.GPIO as GPIO
 import time
 import sys
@@ -9,9 +15,11 @@ def cleanAndExit():
     GPIO.cleanup()
     print ("Bye!")
     sys.exit()
+
 #GPIO.setwarnings(False)
-##Inicializar las celdas de carga
+#Inicializar las celdas de carga
 #GPIO.cleanup()
+
 lc1 = HX711(5,6)
 lc2 = HX711(13,19)
 lc3 = HX711(17,27)

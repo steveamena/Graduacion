@@ -4,7 +4,7 @@
 ## Ultima revision 10 Abril 2019
 ## 17 Abril 2019: Se incluyo la implementacion en codigo C++ para los sensores y los perifericos
 ## 14 Mayo 2019: Se incluyo un controlador nuevo PD con compensador de friccion no lineal. Funciono a la perfeccion
- 
+
 import RPi.GPIO as GPIO		#Libreria de manejo GPIO
 #from hx711 import HX711	#Libreria de manejo celdas de carga
 from Scale import Scale
@@ -712,3 +712,42 @@ class Dosificadora:
 			#Condicion de parada para el ciclo
 			if ((toc-tic)>=tiempo):
 				break
+	def obtenerFuncionRampaTR(self,maxSpeed=99):
+
+		#metodo que se usa para obtener la rampa de velocidad del citrocom
+		aceleracion = True
+		print(self.aEspacio)
+		print("Obteniendo rampa")
+		print(self.aEspacio)
+		self.inicializarPuertos()
+		self.InicializarCeldasTR()
+		self.ResetearCeldasTR()
+		self.tararConcentrado()
+		
+		self.inicializarMotores()
+		self.amConPWM.ChangeDutyCycle(99)
+		print("Arrancado")
+		self.encenderMotores('Con')
+		
+		c = 0
+		self.amConPWM.start(0)
+		
+		while True:
+		
+			if aceleracion:
+				for i in range(10,maxSpeed,1):
+					masaConc 	= self.leerConcentrado(4)
+					masaConcF 	= self.filtradorTamizador(masaConc,'Con',5)
+					self.amConPWM.ChangeDutyCycle(i)
+					time.sleep(0.1)
+					print("%f\t%f\t%f"%(masaConc,masaConcF,i))
+				for i in reversed(range(10,maxSpeed,1)):
+					masaConc 	= self.leerConcentrado(4)
+					masaConcF 	= self.filtradorTamizador(masaConc,'Con',5)
+					self.amConPWM.ChangeDutyCycle(i)
+					time.sleep(0.1)
+					print("%f\t%f\t%f"%(masaConc,masaConcF,i))
+			else:
+				if (c==0):
+					self.amConPWM.ChangeDutyCycle(maxSpeed)
+					c += 0

@@ -1,0 +1,6 @@
+Datos generados por las celdas de carga.
+
+El formato del archivo es el siguiente: 
+"Datos dd-mm-aa x kg y g".
+Donde x repserenta la capacidad de la celda mientras que y el peso colocado
+ 

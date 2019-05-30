@@ -1,3 +1,5 @@
+#Script para obtener lecturas de las celdas de carga sin calibrar ni tarar
+
 import RPi.GPIO as GPIO
 import time
 import sys

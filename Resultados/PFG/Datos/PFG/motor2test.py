@@ -1,5 +1,5 @@
-##This is the test code for the stepper motor
-##STeve Mena Navarro PFG
+##Codigo para probar ambos motores steppers al mismo tiempo.
+##Steve Mena Navarro PFG
 
 #Start importing the required libraries
 import RPi.GPIO as GPIO
